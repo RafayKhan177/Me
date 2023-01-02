@@ -32,13 +32,13 @@ export default function footer() {
         </li>
       </ul>
       <div className="footer__socials">
-        <a href="">
+        <a href="https://www.facebook.com/abdulrafay.khan.18041092/">
           <FaFacebookF />
         </a>
-        <a href="">
+        <a href="https://www.instagram.com/032c.ark/">
           <FiInstagram />
         </a>
-        <a href="">
+        <a href="https://twitter.com/_Rafay_Khan">
           <FiTwitter />
         </a>
       </div>
