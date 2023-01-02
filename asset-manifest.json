@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/Rafay/static/css/main.87dc2a67.css",
-    "main.js": "/Rafay/static/js/main.29bc5d61.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Rafay/static/js/787.28cb0dcd.chunk.js",
+    "main.css": "/Rafay/static/css/main.28dcf15d.css",
+    "main.js": "/Rafay/static/js/main.2d673dca.js",
+    "static/js/787.016dd43c.chunk.js": "/Rafay/static/js/787.016dd43c.chunk.js",
     "static/media/cv.pdf": "/Rafay/static/media/cv.31ca99f7fa0514d24502.pdf",
-    "static/media/me.jpg": "/Rafay/static/media/me.709a2e3cbb9a8c50e59d.jpg",
+    "static/media/me.jpeg": "/Rafay/static/media/me.973b319c5fd25ce49e28.jpeg",
+    "static/media/me.png": "/Rafay/static/media/me.8833ea887148451f7649.png",
     "static/media/portfolio4.jpeg": "/Rafay/static/media/portfolio4.e2e6298e841084dfc4ce.jpeg",
     "static/media/portfolio2.jpeg": "/Rafay/static/media/portfolio2.30c65635396f4f04f790.jpeg",
     "static/media/portfolio5.jpeg": "/Rafay/static/media/portfolio5.61164581be461576e2cd.jpeg",
@@ -14,12 +15,12 @@
     "static/media/portfolio1.jpeg": "/Rafay/static/media/portfolio1.25fb65a5a0d421c03c31.jpeg",
     "static/media/AVTR1.jpeg": "/Rafay/static/media/AVTR1.b1428bb05421f57787c6.jpeg",
     "index.html": "/Rafay/index.html",
-    "main.87dc2a67.css.map": "/Rafay/static/css/main.87dc2a67.css.map",
-    "main.29bc5d61.js.map": "/Rafay/static/js/main.29bc5d61.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Rafay/static/js/787.28cb0dcd.chunk.js.map"
+    "main.28dcf15d.css.map": "/Rafay/static/css/main.28dcf15d.css.map",
+    "main.2d673dca.js.map": "/Rafay/static/js/main.2d673dca.js.map",
+    "787.016dd43c.chunk.js.map": "/Rafay/static/js/787.016dd43c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.87dc2a67.css",
-    "static/js/main.29bc5d61.js"
+    "static/css/main.28dcf15d.css",
+    "static/js/main.2d673dca.js"
   ]
 }
