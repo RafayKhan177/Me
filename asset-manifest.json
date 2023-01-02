@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Rafay/static/css/main.28dcf15d.css",
-    "main.js": "/Rafay/static/js/main.2d673dca.js",
+    "main.js": "/Rafay/static/js/main.0e4e463c.js",
     "static/js/787.016dd43c.chunk.js": "/Rafay/static/js/787.016dd43c.chunk.js",
     "static/media/cv.pdf": "/Rafay/static/media/cv.31ca99f7fa0514d24502.pdf",
     "static/media/me.jpeg": "/Rafay/static/media/me.973b319c5fd25ce49e28.jpeg",
@@ -16,11 +16,11 @@
     "static/media/AVTR1.jpeg": "/Rafay/static/media/AVTR1.b1428bb05421f57787c6.jpeg",
     "index.html": "/Rafay/index.html",
     "main.28dcf15d.css.map": "/Rafay/static/css/main.28dcf15d.css.map",
-    "main.2d673dca.js.map": "/Rafay/static/js/main.2d673dca.js.map",
+    "main.0e4e463c.js.map": "/Rafay/static/js/main.0e4e463c.js.map",
     "787.016dd43c.chunk.js.map": "/Rafay/static/js/787.016dd43c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28dcf15d.css",
-    "static/js/main.2d673dca.js"
+    "static/js/main.0e4e463c.js"
   ]
 }
