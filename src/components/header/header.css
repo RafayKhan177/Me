@@ -43,6 +43,9 @@ header{
     /* left: 50%;
     transform: translate(-50%); */
 }
+.me img{
+    width: 100%;
+}
 /* =============================================== Scroll Down */
 .scroll__down{
         position: absolute;

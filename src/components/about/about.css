@@ -12,10 +12,14 @@
     transparent,
     var(--color-primary),
     transparent
-  );
-  display: grid;
-  place-items: center;
-}
+    );
+    display: grid;
+    place-items: center;
+  }
+  .about__me-image img{
+    width: 100%;
+    border-radius: 2rem;
+  }
 .about__me-image {
   border-radius: 2rem;
   overflow: hidden;

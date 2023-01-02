@@ -1,5 +1,5 @@
 import "./about.css";
-import ME from "../../assets/me.jpg";
+import ME from "../../assets/me.jpeg";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
@@ -12,7 +12,7 @@ export default function About() {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src="{ME}" alt="Me" />
+            <img src={ME} alt="Me" />
           </div>
         </div>
         <div className="about__contant">

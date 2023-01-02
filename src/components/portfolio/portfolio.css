@@ -50,3 +50,9 @@
         width: 80vw;
       }
 }
+/* =============================================== Media Queries (Very Small DEVICES) */
+@media screen and (max-width: 300px) {
+  .portfolio__item {
+    padding: 1rem;
+  }
+}
