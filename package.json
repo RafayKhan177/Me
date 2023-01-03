@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage":"http://rafaykhan177.github.io/Rafay",
+  "homepage": "http://rafaykhan177.github.io/Rafay",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
@@ -12,13 +12,14 @@
     "react-dom": "^18.2.0",
     "react-icons": "^4.7.1",
     "react-scripts": "5.0.1",
+    "react-spinners": "^0.13.7",
     "swiper": "^8.4.5",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
