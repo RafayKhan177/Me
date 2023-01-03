@@ -34,12 +34,21 @@ export default function About() {
             </article>
           </div>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsa quo
-            veniam quia possimus magnam harum eos itaque eligendi, voluptatibus
-            voluptates, nesciunt ab rerum illum quidem, minima quam sed eaque
-            quod.
+            Hello everyone! My name is Rafay and I am a front-end web developer.
+            I specialize in creating clean code and pixel perfect designs. My
+            goal is to always make the website more interactive with web
+            animations. A responsive design makes your website accessible to all
+            users, regardless of their device. This is important because it
+            ensures that everyone can access your site no matter what type of
+            device they are using. As a web developer, I am always looking for
+            ways to make my websites more interactive and engaging for users. We
+            can create a more fluid and dynamic experience that feels alive and
+            reacting to the user’s input. This makes more enjoyable experience
+            for your users.
           </p>
-          <a href="#contact" className="btn btn-primary">Leat's Talk</a>
+          <a href="#contact" className="btn btn-primary">
+            Leat's Talk
+          </a>
         </div>
       </div>
     </section>
