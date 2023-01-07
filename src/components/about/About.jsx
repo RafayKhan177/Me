@@ -34,20 +34,10 @@ export default function About() {
             </article>
           </div>
           <p>
-            Hello everyone! My name is Rafay and I am a front-end web developer.
-            I specialize in creating clean code and pixel perfect designs. My
-            goal is to always make the website more interactive with web
-            animations. A responsive design makes your website accessible to all
-            users, regardless of their device. This is important because it
-            ensures that everyone can access your site no matter what type of
-            device they are using. As a web developer, I am always looking for
-            ways to make my websites more interactive and engaging for users. We
-            can create a more fluid and dynamic experience that feels alive and
-            reacting to the user’s input. This makes more enjoyable experience
-            for your users.
+            As a front-end web developer, my focus is on creating clean code and pixel-perfect designs that are both visually appealing and easy to use. I specialize in creating interactive websites with web animations, and I prioritize responsive design to ensure that all users can access the site regardless of their device. My goal is to create a dynamic and engaging user experience that feels alive and reactive to user input. With my skills and expertise, I am confident in my ability to deliver high-quality websites that meet your needs and exceed your expectations. Please don't hesitate to contact me to discuss your project in further detail and see how I can be of value to you.
           </p>
           <a href="#contact" className="btn btn-primary">
-            Leat's Talk
+            Let's Talk
           </a>
         </div>
       </div>
