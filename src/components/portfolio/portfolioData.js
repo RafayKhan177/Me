@@ -9,44 +9,9 @@ const portfolioData = [
   {
     id: 1,
     image: IMG1,
-    title: "This is portfolio title",
-    github: "#",
-    demo: "#",
-  },
-  {
-    id: 2,
-    image: IMG2,
-    title: "This is portfolio title",
-    github: "#",
-    demo: "#",
-  },
-  {
-    id: 3,
-    image: IMG3,
-    title: "This is portfolio title",
-    github: "#",
-    demo: "#",
-  },
-  {
-    id: 4,
-    image: IMG4,
-    title: "This is portfolio title",
-    github: "#",
-    demo: "#",
-  },
-  {
-    id: 5,
-    image: IMG5,
-    title: "This is portfolio title",
-    github: "#",
-    demo: "#",
-  },
-  {
-    id: 6,
-    image: IMG6,
-    title: "This is portfolio title",
-    github: "#",
-    demo: "#",
+    title: "PAKPAY",
+    github: "https://github.com/RafayKhan177/PAKPAY",
+    demo: "https://rafaykhan177.github.io/PAKPAY/",
   },
 ];
 export default portfolioData;
