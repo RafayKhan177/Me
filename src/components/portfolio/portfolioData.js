@@ -13,5 +13,12 @@ const portfolioData = [
     github: "https://github.com/RafayKhan177/PAKPAY",
     demo: "https://rafaykhan177.github.io/PAKPAY/",
   },
+  {
+    id: 2,
+    image: IMG2,
+    title: "Old Portfolio",
+    github: "https://github.com/RafayKhan177/oldPortfolio",
+    demo: "https://rafaykhan177.github.io/oldPortfolio/",
+  }
 ];
 export default portfolioData;
