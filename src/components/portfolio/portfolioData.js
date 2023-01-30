@@ -22,8 +22,8 @@ const portfolioData = [
   },
   {
     id: 2,
-    image: IMG2,
-    title: "Old Portfolio",
+    image: IMG3,
+    title: "Grow Your Business",
     github: "https://github.com/RafayKhan177/GrowYourBusiness",
     demo: "https://rafaykhan177.github.io/GrowYourBusiness/",
   }
