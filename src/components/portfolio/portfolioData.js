@@ -21,11 +21,25 @@ const portfolioData = [
     demo: "https://rafaykhan177.github.io/oldPortfolio/",
   },
   {
-    id: 2,
+    id: 3,
     image: IMG3,
     title: "Grow Your Business",
     github: "https://github.com/RafayKhan177/GrowYourBusiness",
     demo: "https://rafaykhan177.github.io/GrowYourBusiness/",
+  },
+   {
+    id: 4,
+    image: IMG4,
+    title: "Moxie",
+    github: "https://github.com/RafayKhan177/Moxie",
+    demo: "https://rafaykhan177.github.io/Moxie/",
+  },
+   {
+    id: 5,
+    image: IMG5,
+    title: "Stuffed",
+    github: "https://github.com/RafayKhan177/stuffed",
+    demo: "https://rafaykhan177.github.io/stuffed/",
   }
 ];
 export default portfolioData;
