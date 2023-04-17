@@ -35,7 +35,7 @@ export default function footer() {
         <a href="https://www.facebook.com/abdulrafay.khan.18041092/">
           <FaFacebookF />
         </a>
-        <a href="https://www.instagram.com/032c.ark/">
+        <a href="https://www.instagram.com/rafayvision/">
           <FiInstagram />
         </a>
         <a href="https://twitter.com/_Rafay_Khan">
