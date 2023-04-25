@@ -1,1 +1,1 @@
-Website Hosting on : https://rafaykhan177.github.io/Rafay/
+Website Hosting on : https://rafaykhan177.github.io/Rafay
