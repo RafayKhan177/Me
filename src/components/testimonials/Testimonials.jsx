@@ -1,5 +1,5 @@
 import "./testimonials.css";
-import testimonials from "./testimonials";
+import { testimonialsData } from "./testimonialsData";
 import { SwiperSlide, Swiper } from "swiper/react";
 import { Pagination } from "swiper";
 export default function Testimonials() {
@@ -14,8 +14,8 @@ export default function Testimonials() {
         pagination={{ clickable: true }}
         className="container testimonials__container"
       >
-        {testimonials.map((val) => {
-          const { id, name, review,avatar } = val;
+        {testimonialsData.map((val) => {
+          const { id, name, review, avatar } = val;
           return (
             <SwiperSlide key={id} className="testimonials">
               <div className="clients__avatar">

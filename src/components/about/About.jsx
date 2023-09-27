@@ -1,5 +1,5 @@
 import "./about.css";
-import ME from "../../assets/me.jpeg";
+import ME from "../../assets/meP.png";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
@@ -34,7 +34,12 @@ export default function About() {
             </article>
           </div>
           <p>
-            As a front-end web developer, my focus is on creating clean code and pixel-perfect designs that are both visually appealing and easy to use. I specialize in creating interactive websites with web animations, and I prioritize responsive design to ensure that all users can access the site regardless of their device. My goal is to create a dynamic and engaging user experience that feels alive and reactive to user input. With my skills and expertise, I am confident in my ability to deliver high-quality websites that meet your needs and exceed your expectations. Please don't hesitate to contact me to discuss your project in further detail and see how I can be of value to you.
+            Hi 👋! I'm Rafay, Mobile & Web developer with 3+ years of
+            experience in React, React Native, Next.js, Firebase and many more.
+            I am passionate about building high-quality, user-friendly apps and
+            websites that help businesses grow and succeed. I have a proven
+            track record of delivering projects on time and on budget, and I am
+            always willing to go the extra mile to meet my clients' needs.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
