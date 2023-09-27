@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "http://rafaykhan177.github.io/Rafay",
+  "homepage": "http://rafaykhan177.github.io/Me",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
