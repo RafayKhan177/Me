@@ -24,7 +24,7 @@ const override: CSSProperties = {
   borderColor: "red",
 };
 
-function App() {
+export default function App() {
   const [loading, setLoading] = useState();
   useEffect(() => {
     setLoading(true);
@@ -60,5 +60,3 @@ function App() {
     </>
   );
 }
-
-export default App;
