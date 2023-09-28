@@ -17,7 +17,7 @@ export default function Contact() {
       form.current,
       "fchuI1TtelTzhzAji"
     );
-    e.target.reset()
+    e.target.reset();
   };
   return (
     <section id="contact">
@@ -28,8 +28,8 @@ export default function Contact() {
           <article className="contact__option">
             <HiOutlineMail className="contact__option-icon" />
             <h4>Email</h4>
-            <h5>deomo@gmail.com</h5>
-            <a href="mailto:abdulrafaykhan857@gmail.com">Send a message</a>
+            <h5>demo@gmail.com</h5>
+            <a href="mailto:rafaykhan.mesh@gmail.com">Send a message</a>
           </article>
           <article className="contact__option">
             <RiMessengerLine className="contact__option-icon" />
@@ -38,7 +38,7 @@ export default function Contact() {
             <a href="https://m.me/abdulrafay.khan.18041092/ ">Send a message</a>
           </article>
           <article className="contact__option">
-            <RiWhatsappLine className="contact__option-icon" />
+            <RiWhatsappLine className="contact__option-icon" s/>
             <h4>Whatsapp</h4>
             <h5>+923034160752</h5>
             <a href="https://wa.me/message/IWCMWWSM2Q65B1">Send a message</a>
