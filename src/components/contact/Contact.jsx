@@ -28,7 +28,7 @@ export default function Contact() {
           <article className="contact__option">
             <HiOutlineMail className="contact__option-icon" />
             <h4>Email</h4>
-            <h5>demo@gmail.com</h5>
+            <h5>me@gmail.com</h5>
             <a href="mailto:rafaykhan.mesh@gmail.com">Send a message</a>
           </article>
           <article className="contact__option">

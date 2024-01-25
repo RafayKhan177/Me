@@ -1,5 +1,5 @@
 import "./portfolio.css";
-import { webApps, mobileApps } from "./portfolioData";
+import { webApps } from "./portfolioData";
 
 export default function Portfolio() {
   return (
@@ -8,7 +8,6 @@ export default function Portfolio() {
       <h2>Web Apps</h2>
       <div className="container portfolio__container">
         <Article items={webApps} />
-        <Article items={mobileApps} />
       </div>
     </section>
   );
@@ -25,16 +24,8 @@ const Article = ({ items }) => {
               <img src={image} alt={title} />
             </div>
             <h3 style={{ margin: 0 }}>{title}</h3>
-            <h5 style={{marginBottom:5}}>{category}</h5>
+            <br />
             <div className="portfolio__item-cta">
-              <a
-                href={github}
-                className="btn"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Github
-              </a>
               <a
                 href={demo}
                 className="btn btn-primary"

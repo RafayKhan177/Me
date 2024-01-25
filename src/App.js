@@ -53,7 +53,7 @@ export default function App() {
           <Experience />
           <Services />
           <WebPortfolio />
-          <MobilePortfolio />
+          {/* <MobilePortfolio /> */}
           <Testimonials />
           <Contact />
           <Footer />

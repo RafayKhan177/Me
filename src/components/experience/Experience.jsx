@@ -3,22 +3,20 @@ import { BsPatchCheckFill } from "react-icons/bs";
 
 const fSkills = [
   { name: "JavaScript", level: "Experience" },
-  { name: "React Js", level: "Experience" },
-  { name: "Next Js", level: "Intermediate" },
+  { name: "React.Js", level: "Experience" },
+  { name: "Next.Js", level: "Experience" },
   { name: "React Native", level: "Experience" },
-  { name: "Tailwind", level: "Experience" },
-  { name: "Many more...", level: "Experience" },
+  { name: "Many more...", level: "Intermediate" },
 ];
 
 const bSkills = [
   { name: "Firebase", level: "Experience" },
-  { name: "Node.js", level: "Experience" },
-  { name: "NoSQLDB", level: "Intermediate" },
-  { name: "Python", level: "Experience" },
+  { name: "Node.Js", level: "Experience" },
+  { name: "Python", level: "Intermediate" },
   { name: "JavaScript", level: "Experience" },
+  { name: "TypeScript", level: "Experience" },
   { name: "Many more...", level: "Experience" },
 ];
-
 
 export default function Experience() {
   return (

@@ -5,30 +5,6 @@ import IMG4 from "../../../assets/portfolio4.jpeg";
 import IMG5 from "../../../assets/portfolio5.jpeg";
 import IMG6 from "../../../assets/portfolio6.jpeg";
 
-const webApps = [
-  {
-    id: 5,
-    image: IMG5,
-    title: "Stuffed",
-    category: "WEBSITE",
-    github: "https://github.com/RafayKhan177/stuffed",
-  },
-  {
-    id: 6,
-    image: IMG6,
-    title: "Not Shipito",
-    category: "WEBSITE",
-    github: "https://github.com/RafayKhan177/r-NotShipito",
-  },
-  {
-    id: 2,
-    image: IMG2,
-    title: "Old Portfolio",
-    category: "WEBSITE",
-    github: "https://github.com/RafayKhan177/oldPortfolio",
-  },
-];
-
 const mobileApps = [
   {
     id: 1,
@@ -53,4 +29,4 @@ const mobileApps = [
   },
 ];
 
-export { webApps, mobileApps };
+export { mobileApps };
