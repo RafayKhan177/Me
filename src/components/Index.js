@@ -1,6 +1,7 @@
 export { default as Testimonials } from "./testimonials/Testimonials";
 export { default as Experience } from "./experience/Experience";
-export { default as Portfolio } from "./portfolio/Portfolio";
+export { default as WebPortfolio } from "./portfolio/webApps/Portfolio";
+export { default as MobilePortfolio } from "./portfolio/mobileApps/Portfolio";
 export { default as Services } from "./services/Services";
 export { default as Contact } from "./contact/Contact";
 export { default as Footer } from "./footer/Footer";

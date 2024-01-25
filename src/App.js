@@ -10,15 +10,16 @@ import {
   Footer,
   Header,
   Nav,
-  Portfolio,
+  WebPortfolio,
+  MobilePortfolio,
   Services,
   Testimonials,
 } from "./components/Index";
 //Dependecies
-import { useEffect, useState, CSSProperties } from "react";
+import { useEffect, useState } from "react";
 import HashLoader from "react-spinners/HashLoader";
 
-const override: CSSProperties = {
+const override = {
   display: "block",
   margin: "45vh auto",
   borderColor: "red",
@@ -51,7 +52,8 @@ export default function App() {
           <About />
           <Experience />
           <Services />
-          <Portfolio />
+          <WebPortfolio />
+          <MobilePortfolio />
           <Testimonials />
           <Contact />
           <Footer />

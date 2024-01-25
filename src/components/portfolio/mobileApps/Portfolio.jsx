@@ -5,7 +5,7 @@ export default function Portfolio() {
   return (
     <section id="portfolio">
       <h5>My Recent Work</h5>
-      <h2>Portfolio</h2>
+      <h2>Mobile Apps</h2>
       <div className="container portfolio__container">
         <Article items={webApps} />
         <Article items={mobileApps} />
@@ -18,14 +18,14 @@ const Article = ({ items }) => {
   return (
     <>
       {items.map((item) => {
-        const { id, image, title, github, demo, category } = item;
+        const { id, image, title, github, category } = item;
         return (
           <article key={id} className="portfolio__item">
             <div className="portfolio__item-image">
               <img src={image} alt={title} />
             </div>
             <h3 style={{ margin: 0 }}>{title}</h3>
-            <h5 style={{marginBottom:5}}>{category}</h5>
+            <h5 style={{ marginBottom: 5 }}>{category}</h5>
             <div className="portfolio__item-cta">
               <a
                 href={github}
@@ -34,14 +34,6 @@ const Article = ({ items }) => {
                 rel="noopener noreferrer"
               >
                 Github
-              </a>
-              <a
-                href={demo}
-                className="btn btn-primary"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Live Demo
               </a>
             </div>
           </article>
