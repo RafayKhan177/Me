@@ -1,4 +1,4 @@
-<h3 align="right">Hi 👋! I'm Rafay, Mobile & Web development with 2+ years of experience in React, React Native, Next.js, Firebase and many more. I am passionate about building high-quality, user-friendly apps and websites that help businesses grow and succeed. I have a proven track record of delivering projects on time and on budget, and I am always willing to go the extra mile to meet my clients' needs.</h3>
+<h3 align="right">Hi 👋! I'm Rafay, Mobile & Web development with 2+ years of experience in React, React Native, Next.js, Supabase, Firebase and many more. I am passionate about building high-quality, user-friendly apps and websites that help businesses grow and succeed. I have a proven track record of delivering projects.</h3>
 
 ###
 
